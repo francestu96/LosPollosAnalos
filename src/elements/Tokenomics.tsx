@@ -27,7 +27,7 @@ const Tokenomics = () => {
                     <Text>Contract Ownership:</Text><Text fontFamily="Burrito" color="main">RENOUNCED</Text>
                 </HStack>
                 <HStack>
-                    <Text as="u">Token Address:</Text><Link target="_blank" href="https://explorer.solana.com/address/ta2D3u3XsY6aYqYyhJaF1R1btNQBxrw5WZ2DMWRzeRs" fontFamily="Burrito" color="main">ta2D3u3XsY6aYqYyhJaF1R1btNQBxrw5WZ2DMWRzeRs</Link>
+                    <Text as="u">Token Address:</Text><Link target="_blank" href="https://explorer.solana.com/address/ta2D3u3XsY6aYqYyhJaF1R1btNQBxrw5WZ2DMWRzeRs" fontFamily="Burrito" color="main">ta2D3u3Xs...5WZ2DMWRzeRs</Link>
                 </HStack>
             </VStack>
         </Stack>
