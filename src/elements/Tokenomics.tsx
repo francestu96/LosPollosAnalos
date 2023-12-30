@@ -12,7 +12,10 @@ const Tokenomics = () => {
                     <Text>Initial Mint Supply:</Text><Text fontFamily="Burrito" color="main">100.000.000</Text>
                 </HStack>
                 <HStack>
-                    <Text>Liquidity:</Text><Text fontFamily="Burrito" color="main">3 SOL</Text>
+                    <Text>Liquidity:</Text><Text fontFamily="Burrito" color="main">20 SOL</Text>
+                </HStack>
+                <HStack>
+                    <Text>Fees:</Text><Text fontFamily="Burrito" color="main">0/0</Text>
                 </HStack>
                 <HStack>
                     <Text>Liquidity Lock:</Text><Text fontFamily="Burrito" color="main">BURNED</Text>
