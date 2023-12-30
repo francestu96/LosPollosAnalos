@@ -12,7 +12,7 @@ const Tokenomics = () => {
                     <Text>Initial Mint Supply:</Text><Text fontFamily="Burrito" color="main">100.000.000</Text>
                 </HStack>
                 <HStack>
-                    <Text>Liquidity:</Text><Text fontFamily="Burrito" color="main">20 SOL</Text>
+                    <Text>Liquidity:</Text><Text fontFamily="Burrito" color="main">10 SOL</Text>
                 </HStack>
                 <HStack>
                     <Text>Fees:</Text><Text fontFamily="Burrito" color="main">0/0</Text>
@@ -27,7 +27,7 @@ const Tokenomics = () => {
                     <Text>Contract Ownership:</Text><Text fontFamily="Burrito" color="main">RENOUNCED</Text>
                 </HStack>
                 <HStack>
-                    <Text as="u">Token Address:</Text><Link target="_blank" href="https://explorer.solana.com/address/xxx" fontFamily="Burrito" color="main">COOMING SOON!</Link>
+                    <Text as="u">Token Address:</Text><Link target="_blank" href="https://explorer.solana.com/address/ta2D3u3XsY6aYqYyhJaF1R1btNQBxrw5WZ2DMWRzeRs" fontFamily="Burrito" color="main">ta2D3u3XsY6aYqYyhJaF1R1btNQBxrw5WZ2DMWRzeRs</Link>
                 </HStack>
             </VStack>
         </Stack>
