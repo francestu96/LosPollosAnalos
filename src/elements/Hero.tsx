@@ -46,15 +46,15 @@ const Hero = () => {
             <Flex align="center" justify="space-between" display={['flex', 'flex', 'none','none']} px="10" py="5">
                 <LinkBox>
                     <LinkOverlay href="/">
-                        <Image src={"/logo.png"} height={45} width={45} alt="LosPollosAnalos"/>
+                        <Image src={"/hero.png"} height={45} width={45} alt="LosPollosAnalos"/>
                     </LinkOverlay>
                 </LinkBox>
                 <IconButton aria-label="Open Menu" size="lg" mr={2} icon={<HamburgerIcon/>} onClick={onToggle}/>
             </Flex>
 
             <Center mb="12">
-                <Stack width={["95%", "90%"]} gap="10" direction={["column", "row"]} alignItems="center">
-                    <VStack width={["95%", "90%"]} height={"100%"} alignItems="start" color="black" backgroundColor="rgb(250,250,250,0.8)" borderWidth="thin" borderColor="gray.700" borderRadius="2xl" p="5">
+                <Stack width={["95%", "90%"]} direction={["column", "row"]} alignItems="center">
+                    <VStack width={["95%", "90%"]} alignItems="start" color="black" backgroundColor="rgb(250,250,250,0.8)" borderWidth="thin" borderColor="gray.700" borderRadius="2xl" p="5">
                         <HStack alignItems="end">
                             <Text fontSize="3xl" fontFamily="Burrito" color="main">LOS POLLOS ANALOS</Text>
                         </HStack>
@@ -67,7 +67,7 @@ const Hero = () => {
                             <Button  fontSize={["lg", "xl", "2xl"]} borderRadius="xl" colorScheme='purple' fontFamily="Burrito" size="lg">JOIN THE COMMUNITY</Button>
                         </Link>
                     </VStack>
-                    <Image width={["75%", "40%"]} src="logo.png" ></Image>
+                    <Image width={["85%", "40%"]} src="hero.png" alt="LosPollosAnalos"></Image>
                 </Stack>
             </Center>
 
