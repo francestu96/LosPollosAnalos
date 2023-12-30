@@ -77,18 +77,18 @@ export default function Footer() {
               © 2024 Los Pollos Analos. All rights reserved
             </Text>
             <Stack direction={'row'} spacing={6}>
-              <SocialButton label={'Telegram'} href={'https://t.me/Certified_Portal'}>
+              <SocialButton label={'Telegram'} href={'https://t.me/LosPollosAnalos'}>
                 <FaTelegram />
               </SocialButton>
-              <SocialButton label={'Twitter'} href={'https://twitter.com/certified__eth'}>
+              <SocialButton label={'Twitter'} href={'https://twitter.com/Lospollosanalos'}>
                 <FaTwitter />
               </SocialButton>
             </Stack>
           </Stack>
           <Stack align={'flex-start'}>
             <ListHeader>Support</ListHeader>
-            <Link href={'https://t.me/Certified_Portal'}>Telegram</Link>
-            <Link href={'https://twitter.com/certified__eth'}>Twitter</Link>
+            <Link href={'https://t.me/LosPollosAnalos'}>Telegram</Link>
+            <Link href={'https://twitter.com/Lospollosanalos'}>Twitter</Link>
           </Stack>
           <Stack align={'flex-start'}>
             <ListHeader>Developer</ListHeader>

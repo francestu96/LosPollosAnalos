@@ -14,13 +14,13 @@ const NAV_LINKS: ISubNav[] = [
         {
           label: "Telegram",
           subLabel: "Follow us on Telegram",
-          href_blank: "https://t.me/Certified_Portal",
+          href_blank: "https://t.me/LosPollosAnalos",
           logo: "/telegram.png",
         },
         {
           label: "Twitter",
           subLabel: "Follow us on Twitter",
-          href_blank: "https://twitter.com/certified__eth",
+          href_blank: "https://twitter.com/Lospollosanalos",
           logo: "/twitter.webp",
         }
       ]
@@ -63,7 +63,7 @@ const Hero = () => {
                         <Text fontWeight={["200", "200", "400"]}>We are here not only to announce the opening of this extraordinary venue but also to offer the opportunity to invest in the future through our token, <b>$LOS</b>. This token, playing on the resonance with SOL and with a touch of originality like <b>ANALOS</b>, along with Gus's reputation in business, represents a winning combination.</Text>
                         <Text fontWeight={["200", "200", "400"]}>Investing in <b>$LOS</b> is not just an act of trust in the <b>Los Pollos Analos brand</b>, it is also a step toward direct involvement in Gus Fring's business activities. This goes beyond a simple investment, it is a partnership in the vision of a prosperous and sustainable future.</Text>
                         <Text fontWeight={["200", "300", "400"]}><b><u>¡Bienvenidos al Los Pollos Analos!</u></b></Text>
-                        <Link mt="3" display="flex" justifyContent="center" href="https://t.me/Certified_Portal" target="_blank">
+                        <Link mt="3" display="flex" justifyContent="center" href="https://t.me/LosPollosAnalos" target="_blank">
                             <Button  fontSize={["lg", "xl", "2xl"]} borderRadius="xl" colorScheme='purple' fontFamily="Burrito" size="lg">JOIN THE COMMUNITY</Button>
                         </Link>
                     </VStack>
