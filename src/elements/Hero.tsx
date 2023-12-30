@@ -46,7 +46,7 @@ const Hero = () => {
             <Flex align="center" justify="space-between" display={['flex', 'flex', 'none','none']} px="10" py="5">
                 <LinkBox>
                     <LinkOverlay href="/">
-                        <Image src={"/hero.png"} height={45} width={45} alt="LosPollosAnalos"/>
+                        <Image src={"/logo.png"} height={45} width={45} alt="LosPollosAnalos"/>
                     </LinkOverlay>
                 </LinkBox>
                 <IconButton aria-label="Open Menu" size="lg" mr={2} icon={<HamburgerIcon/>} onClick={onToggle}/>
