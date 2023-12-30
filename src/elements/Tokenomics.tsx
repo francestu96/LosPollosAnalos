@@ -35,10 +35,10 @@ const Tokenomics = () => {
             <Link href="https://www.dextools.io/app/en/ether/pair-explorer/cooming-soon" target="_blank">
                 <Image src={"/DEXScreener.png"} height={14} width={48} alt="DEXScreener logo"/>
             </Link>
-            <Link href="https://www.dextools.io/app/en/ether/pair-explorer/cooming-soon" target="_blank">
+            <Link href="https://dexscreener.com/solana/5vv4hmgtycdrnmvqj1tdsjjzkmx3ak2jo9r6adj8vbmx" target="_blank">
                 <Image src={"/DEXTools.png"} height={10} width={40} alt="DexTools logo"/>
             </Link>
-            <Link href="https://www.dextools.io/app/en/ether/pair-explorer/cooming-soon" target="_blank">
+            <Link href="https://birdeye.so/token/ta2D3u3XsY6aYqYyhJaF1R1btNQBxrw5WZ2DMWRzeRs?chain=solana" target="_blank">
                 <Image src={"/BirdEye.png"} height={10} width={40} alt="BirdEye logo"/>
             </Link>
         </HStack>
